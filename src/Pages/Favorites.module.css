@@ -1,0 +1,16 @@
+.text {
+  font-size: 6rem;
+  padding-left: 5rem;
+}
+
+.favorite {
+  font-size: 3rem;
+  margin-left: 1rem;
+}
+
+@media (max-width: 768px) {
+  .text {
+    font-size: 3.5rem;
+    padding-left: 3rem;
+  }
+};

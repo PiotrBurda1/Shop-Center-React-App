@@ -1,0 +1,45 @@
+.title {
+  text-align: center;
+  font-size: 50px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid black;
+}
+.kontener {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin-top: 40px;
+  max-width: 100%;
+}
+
+.kontener button {
+  font-size: 2.5rem;
+  border: 1px solid white;
+  color: #77002e;
+  cursor: pointer;
+  padding: 10px 20px;
+  background-color: White;
+}
+
+.kontener button:hover {
+  border-bottom: 2px solid #77002e;
+}
+.search {
+display: block;
+}
+@media (max-width: 768px) {
+  .title {
+    font-size: 40px;
+    margin: 20px;
+    padding-bottom: 10px;
+  }
+  .kontener button {
+    font-size: 2rem;
+    padding: 5px 10px;
+  }
+  .search {
+    display: none;
+  }
+}
+
+

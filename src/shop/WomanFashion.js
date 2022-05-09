@@ -1,14 +1,14 @@
-import sukienka1 from "../Foto/sukienka1.png";
-import sukienka2 from "../Foto/sukienka2.jpg";
-import sukienka3 from "../Foto/sukienka3.jpg";
-import obcas1 from "../Foto/obcas1.jpg";
-import obcas2 from "../Foto/obcas2.jpg";
-import obcas3 from "../Foto/obcas3.jpg";
-import biustonosz1 from "../Foto/biustonosz1.jpg";
-import biustonosz2 from "../Foto/biustonosz2.jpg";
-import biustonosz3 from "../Foto/biustonosz3.jpg";
+import sukienka1 from "../images/sukienka1.png";
+import sukienka2 from "../images/sukienka2.jpg";
+import sukienka3 from "../images/sukienka3.jpg";
+import obcas1 from "../images/obcas1.jpg";
+import obcas2 from "../images/obcas2.jpg";
+import obcas3 from "../images/obcas3.jpg";
+import biustonosz1 from "../images/biustonosz1.jpg";
+import biustonosz2 from "../images/biustonosz2.jpg";
+import biustonosz3 from "../images/biustonosz3.jpg";
 
-const DUMMY_ObjectGrl = [
+const WomanFashion = [
   {
     category: "Dress",
     title: "Evening Dress",
@@ -84,4 +84,4 @@ const DUMMY_ObjectGrl = [
   },
 ];
 
-export default DUMMY_ObjectGrl;
+export default WomanFashion;

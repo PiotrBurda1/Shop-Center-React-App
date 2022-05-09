@@ -1,9 +1,9 @@
-import man from "../Foto/man.jpg";
-import man1 from "../Foto/man1.jpg"
-import woman from "../Foto/woman.jpg";
-import woman1 from "../Foto/woman1.jpg"
-import child from "../Foto/child.jpg";
-import child1 from "../Foto/child1.jpg"
+import man from "../images/man.jpg";
+import man1 from "../images/man1.jpg"
+import woman from "../images/woman.jpg";
+import woman1 from "../images/woman1.jpg"
+import child from "../images/child.jpg";
+import child1 from "../images/child1.jpg"
 import classes from "./Shop.module.css";
 import { useNavigate } from "react-router-dom";
 

@@ -5,7 +5,7 @@ import TwitterIcon from '@mui/icons-material/Twitter';
 import classes from './Footer.module.css'
 
 
-function Contact() {
+function Footer () {
   return (
     <div className={classes.footer}>
       <div className={classes.footer__row}>
@@ -56,4 +56,4 @@ function Contact() {
   );
 }
 
-export default Contact;
+export default Footer;

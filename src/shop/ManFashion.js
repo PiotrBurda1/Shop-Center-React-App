@@ -1,17 +1,17 @@
-import Garnitur1 from "../Foto/Garnitur1.jpg";
-import Garnitur2 from "../Foto/Garnitur2.jpg";
-import Garnitur3 from "../Foto/Garnitur3.jpg";
-import Tshirt1 from "../Foto/Tshirt1.png";
-import Tshirt2 from "../Foto/Tshirt2.png";
-import Tshirt3 from "../Foto/Tshirt3.png";
-import bluza1 from "../Foto/bluza1.jpg";
-import bluza2 from "../Foto/bluza2.jpg";
-import bluza3 from "../Foto/bluza3.jpg";
-import spodnie1 from "../Foto/spodnie1.jpg";
-import spodnie2 from "../Foto/spodnie2.jpg";
-import spodnie3 from "../Foto/spodnie3.jpg";
+import Garnitur1 from "../images/Garnitur1.jpg";
+import Garnitur2 from "../images/Garnitur2.jpg";
+import Garnitur3 from "../images/Garnitur3.jpg";
+import Tshirt1 from "../images/Tshirt1.png";
+import Tshirt2 from "../images/Tshirt2.png";
+import Tshirt3 from "../images/Tshirt3.png";
+import bluza1 from "../images/bluza1.jpg";
+import bluza2 from "../images/bluza2.jpg";
+import bluza3 from "../images/bluza3.jpg";
+import spodnie1 from "../images/spodnie1.jpg";
+import spodnie2 from "../images/spodnie2.jpg";
+import spodnie3 from "../images/spodnie3.jpg";
 
-const DUMMY_Object = [
+const ManFashion = [
   {
     category: "T-shirt",
     title: "Black T-shirt",
@@ -112,4 +112,4 @@ const DUMMY_Object = [
   },
 ];
 
-export default DUMMY_Object;
+export default ManFashion;

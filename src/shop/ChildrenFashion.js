@@ -1,14 +1,14 @@
-import body1 from "../Foto/body1.jpg";
-import body2 from "../Foto/body2.jpg";
-import body3 from "../Foto/body3.jpg";
-import ubranko1 from "../Foto/ubranko1.jpg";
-import ubranko2 from "../Foto/ubranko2.jpg";
-import ubranko3 from "../Foto/ubranko3.jpg";
-import czapka1 from "../Foto/czapka1.jpg";
-import czapka2 from "../Foto/czapka2.jpg";
-import czapka3 from "../Foto/czapka3.jpg";
+import body1 from "../images/body1.jpg";
+import body2 from "../images/body2.jpg";
+import body3 from "../images/body3.jpg";
+import ubranko1 from "../images/ubranko1.jpg";
+import ubranko2 from "../images/ubranko2.jpg";
+import ubranko3 from "../images/ubranko3.jpg";
+import czapka1 from "../images/czapka1.jpg";
+import czapka2 from "../images/czapka2.jpg";
+import czapka3 from "../images/czapka3.jpg";
 
-const DUMMY_ObjectChild = [
+const ChildrenFashion = [
   {
     category: "body",
     title: "black body",
@@ -83,4 +83,4 @@ const DUMMY_ObjectChild = [
   },
 ]
 
-export default DUMMY_ObjectChild;
+export default ChildrenFashion;

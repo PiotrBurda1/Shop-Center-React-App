@@ -1,5 +1,5 @@
-import home1 from "../Foto/home1.png";
-import home2 from "../Foto/home2.jpg";
+import home1 from "../images/home1.png";
+import home2 from "../images/home2.jpg";
 import classes from "./Home.module.css";
 import { useNavigate } from "react-router-dom";
 

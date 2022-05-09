@@ -1,12 +1,12 @@
 import { useState } from "react";
 import { Route, Routes } from "react-router-dom";
-import Home from "./Pages/Home";
-import Shop from "./Pages/Shop";
+import Home from "./pages/Home";
+import Shop from "./pages/Shop";
 import Layout from "./components/Layout";
-import Man from "./Pages/Man";
-import Woman from "./Pages/Woman";
-import Child from "./Pages/Child";
-import Favorites from "./Pages/Favorites";
+import Man from "./pages/Man";
+import Woman from "./pages/Woman";
+import Child from "./pages/Child";
+import Favorites from "./pages/Favorites";
 import Cart from "../src/Cart/Cart";
 import CartProvider from "./store/cart-provider";
 import ShopId from "./shop/ShopDetails";
